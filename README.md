@@ -17,8 +17,8 @@ A **PyQt5-based File Manager** with support for **local and remote file browsing
 
 ```bash
 # Clone the repository
-git clone https://github.com/bayazidb-bit/file-manager.git
-cd file-manager
+git clone https://github.com/bayazid-bit/file_manager.git
+cd file_manager
 
 # Install dependencies
 pip install -r requirements.txt
